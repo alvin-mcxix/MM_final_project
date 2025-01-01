@@ -1,4 +1,4 @@
-# MM_final_project
+# Solfège Hand Signs Recognition
 
 請先安裝下列模組：
 
